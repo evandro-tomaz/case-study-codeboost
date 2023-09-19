@@ -25,6 +25,9 @@ export function Header() {
                             <li>
                                 <ItemMenu name="Ajuda" />
                             </li>
+                            <li>
+                                <ItemMenu name="Outros" />
+                            </li>
                         </ul>
                     </div>
                 </div>
